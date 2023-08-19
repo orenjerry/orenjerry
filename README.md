@@ -1,4 +1,4 @@
-Holla !
+Helllooo! My Username is Kinnaa! Currently im still learning on HTML, CSS, JS, PHP.
 
-Nothing here GO BACK!
-JK, Im a newbie developer discord bot, using python
+puh sepuh ajarin dong puh sepuh
+tinki winki dipsi lala puh sepuh
