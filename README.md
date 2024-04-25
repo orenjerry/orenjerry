@@ -1,4 +1,11 @@
-Helllooo! My Username is Kinnaa! Currently im still learning on HTML, CSS, JS, PHP.
+Hello! My username is Kinnaa!
+Currently, I have learned :
+ - HTML, CSS
+ - JS
+ - Python
+ - PHP Native
 
-puh sepuh ajarin dong puh sepuh
-tinki winki dipsi lala puh sepuh
+And, Currently I Learning :
+ - Laravel
+ - React JS
+ - Django
